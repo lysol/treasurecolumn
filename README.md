@@ -12,6 +12,11 @@ Wordnik API key. It'll search `(cwd)/config.ini` and `~/.treasurecolumn/config.i
 
 You'll also need a url or file with a url on each line pointing at MJPEG streams. Obtaining those is 𝔞𝔫 𝔢𝔵𝔢𝔯𝔠𝔦𝔰𝔢 𝔩𝔢𝔣𝔱 𝔱𝔬 𝔱𝔥𝔢 𝔯𝔢𝔞𝔡𝔢𝔯.
 
+Update:
+
+Google APIs have shifted, as they do, so this is probably significantly broken. The rest of the code should still work,
+if you'd like to generate these sorts of videos still.
+
 Usage
 --------
 
